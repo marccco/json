@@ -1,0 +1,19 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 16.7589197, 
+          "lon": -96.7681377
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "This is a basic POI"
+      }
+    }
+  ], 
+  "layer": "MaAnthHome"
+}
